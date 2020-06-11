@@ -1,0 +1,25 @@
+.header {
+  padding: 5px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+.footer {
+  padding: 5px;
+  text-align: right;
+  color: white;
+  font-size: 10px;
+}
+
+body
+{
+background :url(../harsha.jpeg);
+background-size:100% 100%;
+background-position:center;
+background-repeat:no-repeat;
+}
+.domains{
+color:white;
+font-size:18px;
+
+}

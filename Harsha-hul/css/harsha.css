@@ -1,0 +1,19 @@
+body
+{
+background :url(../images/harsha.jpg);
+background-size:100% 100%;
+background-position:center;
+background-repeat:no-repeat;
+}
+.domains{
+color:white;
+font-size:18px;
+font-weight;bold;
+}
+#tables{
+border;1px solid black;
+
+border-collapse:collapse;}
+#tables tr,td{
+border:1px solid black;
+}
